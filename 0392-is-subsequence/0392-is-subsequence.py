@@ -9,8 +9,6 @@ class Solution:
         found_c = 1
         new_str = ""
         for c in s:
-            if t_idx == len(t):
-                break
             if found_c != 1:
                 return False 
             found_c = 0
