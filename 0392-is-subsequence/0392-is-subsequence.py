@@ -5,14 +5,23 @@ class Solution:
         elif len(t) == 0:
             return False 
 
-        char_map = {}
-        for c in t:
-            char_map[c] = char_map.get(c, 0) + 1
-
+        t_idx = 0
+        found_c = 1
+        new_str = ""
         for c in s:
-            if c in char_map:
-                char_map[c] -= 1
-            else:
-                return False
-    
-        return True 
+            if t_idx == len(t) - 1:
+                break
+            if found_c != 1:
+                return False 
+            found_c = 0
+            for t_idx in range(t_idx, len(t)):
+                if c == t[t_idx]:
+                    t_idx += 1
+                    new_str += c
+                    found_c = 1
+                    break
+
+        if s == new_str:
+            return True 
+
+        return False 
