@@ -4,9 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/dhvanichheda/LeetCode/tree/master/0054-spiral-matrix) |
 | [0238-product-of-array-except-self](https://github.com/dhvanichheda/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dhvanichheda/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/dhvanichheda/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/dhvanichheda/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
