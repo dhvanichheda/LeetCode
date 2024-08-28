@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhvanichheda/LeetCode/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/dhvanichheda/LeetCode/tree/master/0205-isomorphic-strings) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/dhvanichheda/LeetCode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
