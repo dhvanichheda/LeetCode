@@ -1,17 +1,16 @@
-'''
-Approach 1 :
-1. Store the numbers in reverse order in a string. 
-2. Convert the string numbers into integer (in non-reversed order)
-3. Add the numbers, convert to string (in reversed order) and then create linked list 
-
-Approach 2:
-1. Go over linked lists one digit at a time and keep adding the sum to a new list on the go 
-'''
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
+'''
+Approach 1 :
+1. Store the numbers in reverse order in a string. 
+2. Convert the string numbers into integer (in non-reversed order)
+3. Add the numbers, convert to string (in reversed order) and then create linked list 
+'''
+
 '''class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         num1_str = num2_str = ""
@@ -54,7 +53,11 @@ Approach 2:
         return result
 '''
 
-#Approach 2:
+'''
+Approach 2:
+1. Go over linked lists one digit at a time and keep adding the sum to a new list on the go 
+'''
+
 class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
         pre_head = ListNode(-1)
