@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhvanichheda/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/dhvanichheda/LeetCode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/dhvanichheda/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/dhvanichheda/LeetCode/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/dhvanichheda/LeetCode/tree/master/0189-rotate-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhvanichheda/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/dhvanichheda/LeetCode/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dhvanichheda/LeetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/dhvanichheda/LeetCode/tree/master/0189-rotate-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/dhvanichheda/LeetCode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
