@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dhvanichheda/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/dhvanichheda/LeetCode/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/dhvanichheda/LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/dhvanichheda/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/dhvanichheda/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dhvanichheda/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/dhvanichheda/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Matrix
 |  |
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/dhvanichheda/LeetCode/tree/master/0045-jump-game-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dhvanichheda/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dhvanichheda/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
