@@ -11,11 +11,13 @@ class Solution:
         curr_sum = 0
         shortest = float('inf')
         
-        for r in range(0, len(nums)):
+        for r in range(len(nums)):
             curr_sum += nums[r]
 
             while curr_sum >= target:
                 shortest = min(shortest, r-l+1)
+                if shortest == 1:
+                    return shortest
                 curr_sum -= nums[l]
                 l += 1
                 
