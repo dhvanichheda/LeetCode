@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/dhvanichheda/LeetCode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/dhvanichheda/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/dhvanichheda/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/dhvanichheda/LeetCode/tree/master/0057-insert-interval) |
 | [0189-rotate-array](https://github.com/dhvanichheda/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhvanichheda/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/dhvanichheda/LeetCode/tree/master/0238-product-of-array-except-self) |
