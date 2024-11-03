@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dhvanichheda/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/dhvanichheda/LeetCode/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/dhvanichheda/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/dhvanichheda/LeetCode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/dhvanichheda/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/dhvanichheda/LeetCode/tree/master/0056-merge-intervals) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/dhvanichheda/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/dhvanichheda/LeetCode/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dhvanichheda/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhvanichheda/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/dhvanichheda/LeetCode/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/dhvanichheda/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/dhvanichheda/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/dhvanichheda/LeetCode/tree/master/0205-isomorphic-strings) |
