@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhvanichheda/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhvanichheda/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/dhvanichheda/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/dhvanichheda/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/dhvanichheda/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/dhvanichheda/LeetCode/tree/master/0344-reverse-string) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhvanichheda/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/dhvanichheda/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0125-valid-palindrome](https://github.com/dhvanichheda/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/dhvanichheda/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/dhvanichheda/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/dhvanichheda/LeetCode/tree/master/0541-reverse-string-ii) |
