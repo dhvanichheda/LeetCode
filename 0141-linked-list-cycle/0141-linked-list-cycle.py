@@ -10,15 +10,13 @@ class Solution:
         if head == None:
             return False 
 
-        slow = ListNode(0)
-        slow.next = head
-        fast = head 
+        slow = head
+        fast = head.next
 
-        while fast.next != None and fast.next.next != None:
-            if slow != fast:
-                slow = slow.next
-                fast = fast.next.next
-            else:
-                return True
+        while slow != fast:
+            if fast == None or fast.next == None :
+                return False
+            slow = slow.next
+            fast = fast.next.next
 
-        return False 
+        return True
