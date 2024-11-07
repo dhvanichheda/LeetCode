@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhvanichheda/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/dhvanichheda/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhvanichheda/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/dhvanichheda/LeetCode/tree/master/0125-valid-palindrome) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhvanichheda/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/dhvanichheda/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/dhvanichheda/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/dhvanichheda/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/dhvanichheda/LeetCode/tree/master/0125-valid-palindrome) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhvanichheda/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/dhvanichheda/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhvanichheda/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Binary Search
