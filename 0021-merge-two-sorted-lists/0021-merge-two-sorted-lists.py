@@ -8,29 +8,17 @@ class Solution:
         dummy = ListNode()
         curr = dummy
 
-        while l1 != None and l2 != None:
-            new_node = ListNode()
+        while l1 and l2:
             if l1.val < l2.val:
-                new_node.val = l1.val 
+                curr.next = l1 
                 l1 = l1.next 
             else:
-                new_node.val = l2.val 
+                curr.next = l2
                 l2 = l2.next
 
-            curr.next = new_node
             curr = curr.next 
 
-        while l1 != None:
-            new_node = ListNode(l1.val)
-            curr.next = new_node 
-            curr = curr.next 
-            l1 = l1.next 
-
-        while l2 != None:
-            new_node = ListNode(l2.val)
-            curr.next = new_node 
-            curr = curr.next 
-            l2 = l2.next 
+        curr.next = l1 if l1 else l2 
 
         return dummy.next
             
