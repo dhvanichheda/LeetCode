@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/dhvanichheda/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/dhvanichheda/LeetCode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/dhvanichheda/LeetCode/tree/master/0792-binary-search) |
+| [0974-reorder-data-in-log-files](https://github.com/dhvanichheda/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -73,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/dhvanichheda/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/dhvanichheda/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhvanichheda/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0974-reorder-data-in-log-files](https://github.com/dhvanichheda/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/dhvanichheda/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dhvanichheda/LeetCode/tree/master/0056-merge-intervals) |
+| [0974-reorder-data-in-log-files](https://github.com/dhvanichheda/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 ## Linked List
 |  |
 | ------- |
